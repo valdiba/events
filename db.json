@@ -1,87 +1,87 @@
 {
-	"days": {
-		"Mon": [{
-				"eventName": "Daily Meeting",
-				"date": "2021,09,20",
-				"startTime": "08,00,00",
-				"endTime": "10,00,00",
-				"category": "Internship",
-				"notes": ""
-			},
-			{
-				"eventName": "Discipline Meeting",
-				"date": "2021,09,20",
-				"startTime": "14,00,00",
-				"endTime": "16,00,00",
-				"category": "Internship",
-				"notes": ""
-			}
+	"days": [
+		[{
+			"eventName": "Daily Meeting",
+			"date": "2021,09,20",
+			"startTime": "08,00,00",
+			"endTime": "10,00,00",
+			"category": "Internship",
+			"notes": ""
+		},
+		{
+			"eventName": "Discipline Meeting",
+			"date": "2021,09,20",
+			"startTime": "14,00,00",
+			"endTime": "16,00,00",
+			"category": "Internship",
+			"notes": ""
+		}
 		],
-		"Tue": [{
+		[{
 			"eventName": "Pitch: Ingeniero por un dia",
 			"date": "2021,09,21",
 			"startTime": "14,00,00",
 			"endTime": "17,00,00",
 			"notes": ""
 		}],
-		"Wed": [{
-				"eventName": "Home Office Conference",
-				"date": "2021,09,22",
-				"startTime": "08,00,00",
-				"endTime": "10,00,00",
-				"category": "University",
-				"notes": ""
-			},
-			{
-				"eventName": "PDR Meeting",
-				"date": "2021,09,22",
-				"startTime": "15,00,00",
-				"endTime": "16,00,00",
-				"category": "Internship",
-				"notes": ""
-			}
+		[{
+			"eventName": "Home Office Conference",
+			"date": "2021,09,22",
+			"startTime": "08,00,00",
+			"endTime": "10,00,00",
+			"category": "University",
+			"notes": ""
+		},
+		{
+			"eventName": "PDR Meeting",
+			"date": "2021,09,22",
+			"startTime": "15,00,00",
+			"endTime": "16,00,00",
+			"category": "Internship",
+			"notes": ""
+		}
 		],
-		"Thu": [{
-				"eventName": "Coffee Break with Buddies",
-				"date": "2021,09,23",
-				"startTime": "14,00,00",
-				"endTime": "15,00,00",
-				"category": "Internship",
-				"notes": ""
-			},
-			{
-				"eventName": "React JS Class",
-				"date": "2021,09,23",
-				"startTime": "17,00,00",
-				"endTime": "19,00,00",
-				"category": "University",
-				"notes": ""
-			}
+		[{
+			"eventName": "Coffee Break with Buddies",
+			"date": "2021,09,23",
+			"startTime": "14,00,00",
+			"endTime": "15,00,00",
+			"category": "Internship",
+			"notes": ""
+		},
+		{
+			"eventName": "React JS Class",
+			"date": "2021,09,23",
+			"startTime": "17,00,00",
+			"endTime": "19,00,00",
+			"category": "University",
+			"notes": ""
+		}
 		],
-		"Fri": [{
-				"eventName": "Community Weekly meeting",
-				"date": "2021,09,24",
-				"startTime": "14,00,00",
-				"endTime": "15,00,00",
-				"category": "Internship",
-				"notes": ""
-			},
-			{
-				"eventName": "Medical Appointment",
-				"date": "2021,09,24",
-				"startTime": "17,00,00",
-				"endTime": "18,00,00",
-				"category": "Personal",
-				"notes": ""
-			},
-			{
-				"eventName": "Abue's Birthday",
-				"date": "2021,09,24",
-				"startTime": "19,00,00",
-				"endTime": "23,00,00",
-				"category": "Personal",
-				"notes": ""
-			}
+		[{
+			"eventName": "Community Weekly meeting",
+			"date": "2021,09,24",
+			"startTime": "14,00,00",
+			"endTime": "15,00,00",
+			"category": "Internship",
+			"notes": ""
+		},
+		{
+			"eventName": "Medical Appointment",
+			"date": "2021,09,24",
+			"startTime": "17,00,00",
+			"endTime": "18,00,00",
+			"category": "Personal",
+			"notes": ""
+		},
+		{
+			"eventName": "Abue's Birthday",
+			"date": "2021,09,24",
+			"startTime": "19,00,00",
+			"endTime": "23,00,00",
+			"category": "Personal",
+			"notes": ""
+		}
 		]
-	}
+	]
 }
