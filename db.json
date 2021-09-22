@@ -1,5 +1,5 @@
 {
-	"days": [
+	"days": {
 		"Mon": [{
 				"eventName": "Daily Meeting",
 				"date": "2021,09,20",
@@ -83,5 +83,5 @@
 				"notes": ""
 			}
 		]
-	]
+	}
 }
